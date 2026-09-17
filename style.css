@@ -1,0 +1,30 @@
+body{
+    background-color: #D5E1EF;
+}
+.container{
+    background-color: #FFFFFF;
+    width: 500px;
+    height: 700px;
+    margin: 100px auto;
+    border-radius: 20px;
+    text-align: center;
+    padding:10px;
+}
+img{
+    margin-top: 50px;
+    border-radius: 20px;
+}
+h1{
+    font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-shadow: 0px 0px 1px #000000;
+}
+p{
+    font-size: 16px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color:#d5e1efde;
+    text-shadow: 0px 0px 0.5px #000000;
+    font-weight:bold;
+}
